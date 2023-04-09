@@ -1,0 +1,12 @@
+html body div.contenedor h2.titulo{
+    font-family: "Poppins";
+    font-size: 50px;
+    margin: 16px 0;
+}
+
+div p.texto{
+    font-family: "Poppins";
+    font-size: 20px;
+    color: black;
+    margin: 0;
+}
